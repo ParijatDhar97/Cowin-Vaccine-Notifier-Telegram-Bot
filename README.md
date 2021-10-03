@@ -5,4 +5,4 @@ It has been integrated with telegram channel where you will find all the necessa
 
 Telegram channel link: https://t.me/CowinVaccineUpdatesWB
 
-# Let Us Fight Together Against Covid-19 Pandemic.
+## Let Us Fight Together Against Covid-19 Pandemic.
